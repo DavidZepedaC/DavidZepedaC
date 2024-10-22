@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy David Zepeda 
 
-<!--
-**ExterWolf/ExterWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Científico de Datos especializado en Machine Learning y análisis predictivo. 🚀 Apasionado por descubrir patrones y optimizar procesos a través de datos.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías:
+- Python 🐍
+- R 📊
+- SQL 🗂️
+- Machine Learning 🤖
+- Big Data 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados:
+- [Proyecto de Machine Learning](https://github.com/ExterWolf/proyecto-ml) - Implementación de modelos predictivos para la industria.
+- [Análisis de Datos](https://github.com/ExterWolf/analisis-datos) - Exploración y visualización de datos para la toma de decisiones.
+
+## 📫 ¡Hablemos!
+- LinkedIn: [ExterWolf](https://www.linkedin.com/in/exterwolf)
+- Correo: exterwolf@email.com
