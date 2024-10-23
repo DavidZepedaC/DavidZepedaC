@@ -5,7 +5,7 @@
 
 ## ¡Hola! 👋 Soy David Zepeda 
 
-Soy un Científico de Datos especializado en Machine Learning y análisis predictivo. 🚀 Apasionado por descubrir patrones y optimizar procesos a través de datos.
+I am a Data Scientist specialized in Machine Learning and predictive analysis. 🚀 Passionate about discovering patterns and optimizing processes through data
 
 ## 💻 Tecnologías:
 - Python 🐍
