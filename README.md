@@ -1,4 +1,9 @@
-# ¡Hola! 👋 Soy David Zepeda 
+<!-- Banner -->
+<p align="center">
+  <img src="" />
+</p>
+
+## ¡Hola! 👋 Soy David Zepeda 
 
 Soy un Científico de Datos especializado en Machine Learning y análisis predictivo. 🚀 Apasionado por descubrir patrones y optimizar procesos a través de datos.
 
@@ -16,3 +21,4 @@ Soy un Científico de Datos especializado en Machine Learning y análisis predic
 ## 📫 ¡Hablemos!
 - LinkedIn: [ExterWolf](https://www.linkedin.com/in/exterwolf)
 - Correo: exterwolf@email.com
+
