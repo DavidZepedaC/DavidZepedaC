@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/DavidZepedaC/DavidZepedaC/blob/d08ffaf1bebe7fe4a1902f44bd303d2b8b563bd1/BANNER2GS.png" />
+  <img src="https://github.com/DavidZepedaC/DavidZepedaC/blob/main/BANNER2GS.png" />
 </p>
 
 ## ¡Hola! 👋 Soy David Zepeda 
