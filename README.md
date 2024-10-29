@@ -19,6 +19,6 @@ I am a Data Scientist specialized in Machine Learning and predictive analysis. �
 - [Análisis de Datos](https://github.com/ExterWolf/analisis-datos) - Exploración y visualización de datos para la toma de decisiones.
 
 ## 📫 ¡Hablemos!
-- LinkedIn: [ExterWolf](https://www.linkedin.com/in/exterwolf)
-- Correo: exterwolf@email.com
+- LinkedIn: [David Zepeda](https://www.linkedin.com/in/davidzepedac/)
+- Correo: david.zepedac@outlook.com
 
