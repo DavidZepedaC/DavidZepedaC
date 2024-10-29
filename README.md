@@ -3,16 +3,17 @@
   <img src="https://github.com/DavidZepedaC/DavidZepedaC/blob/main/BANNER2GS.png" />
 </p>
 
-## ¡Hola! 👋 Soy David Zepeda 
+## ¡Hello! 👋 I am David Zepeda 
 
 I am a Data Scientist specialized in Machine Learning and predictive analysis. 🚀 Passionate about discovering patterns and optimizing processes through data
 
 ## 💻 Tecnologías:
 - Python 🐍
-- R 📊
 - SQL 🗂️
+- Power BI 📊
 - Machine Learning 🤖
 - Big Data 🛠️
+- Cloud Computer ☁️
 
 ## 🚀 Proyectos Destacados:
 - [Proyecto de Machine Learning](https://github.com/ExterWolf/proyecto-ml) - Implementación de modelos predictivos para la industria.
