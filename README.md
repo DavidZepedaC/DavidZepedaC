@@ -16,8 +16,8 @@ I am a Data Scientist specialized in Machine Learning and predictive analysis. �
 - Cloud Computer ☁️
 
 ## 🚀 Proyectos Destacados:
-- [Proyecto de Machine Learning](https://github.com/ExterWolf/proyecto-ml) - Implementación de modelos predictivos para la industria.
-- [Análisis de Datos](https://github.com/ExterWolf/analisis-datos) - Exploración y visualización de datos para la toma de decisiones.
+
+- [Project | Walmart Sales Prediction - Linear Regression Model](https://github.com/DavidZepedaC/Walmart-Sales-Prediction)
 
 ## 📫 ¡Hablemos!
 - LinkedIn: [David Zepeda](https://www.linkedin.com/in/davidzepedac/)
